@@ -56,5 +56,5 @@ stronger and stronger enemies.
 
 
 
-
+<image size=800% src="Images/showcase.png">
 
